@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxAreaInRec_Histogram",
+            "request": "launch",
+            "mainClass": "MaxAreaInRec_Histogram",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateParenthesis",
+            "request": "launch",
+            "mainClass": "DuplicateParenthesis",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElement",
+            "request": "launch",
+            "mainClass": "NextGreaterElement",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch StockSpan",
+            "request": "launch",
+            "mainClass": "StockSpan",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAStack",
+            "request": "launch",
+            "mainClass": "ReverseAStack",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseOfString",
+            "request": "launch",
+            "mainClass": "ReverseOfString",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch PushAtBottom",
+            "request": "launch",
+            "mainClass": "PushAtBottom",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplementSTACK_byLINKEDLIST",
+            "request": "launch",
+            "mainClass": "ImplementSTACK_byLINKEDLIST",
+            "projectName": "Stack_77ef4c72"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplementSTACKwithARRAYLIST",
+            "request": "launch",
+            "mainClass": "ImplementSTACKwithARRAYLIST",
+            "projectName": "Stack_77ef4c72"
+        }
+    ]
+}
